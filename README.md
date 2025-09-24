@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Um Pequeno Detalhe
+
+utilize o comando a seguir para rodar o backend após entrar na máquina virtual
+
+```sh
+flask run
+```
